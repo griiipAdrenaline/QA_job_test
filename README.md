@@ -15,6 +15,9 @@ just pure python (specifically Python 3.7)**
     Create a function that takes a list of numbers or strings and returns a list with the items from the original list
     stored into sublists. Items of the same value should be in the same sublist.
     
+    *The input list should be of a single type (str or int) you don't need to handle
+    mixed lists*
+    
     Examples
     
     advanced_sort([2, 1, 2, 1]) :arrow_right: [[2, 2], [1, 1]]    
