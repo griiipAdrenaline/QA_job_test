@@ -2,10 +2,13 @@
 
 ## Test requirements
 This test have 3 parts to it, for each part you need to implement the solution 
-in the relevant file. 
+in the relevant file.
 
 **The solution should be implemented inside the attached relevant file, don't add
 arguments to the functions already defined**
+
+**The solution should be implemented _without_ imports - 
+just pure python (specifically Python 3.7)**
 
 1. **Advanced sort list**:
 
