@@ -61,6 +61,14 @@ just pure python (specifically Python 3.7)**
     
     **Notes:** There are no hyphens used (e.g. "thirty five" not "thirty-five").
     The word "and" is not used (e.g. "one hundred one" not "one hundred and one").
+  
+4. **Create a test**
+
+    Create a file called `test_qa_job.py` that runs a test for each of the methods. 
+    The test should check if the output is valid using the examples given in the method's
+    test instructions.
     
+    **_You can use imports for this section_**
+
 ## Solution submission
 To submit the solution put the entire folder in a ZIP file and send to `alonk@griiip.com`

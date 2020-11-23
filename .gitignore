@@ -8,3 +8,6 @@ AdvancedList_solution.py
 EmployeeClass_solution.py
 NumbersToEnglish_solution.py
 test_QA_job.py
+
+*.zip
+QA_job_test/
