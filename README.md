@@ -1,7 +1,7 @@
 # QA job test
 
 ## Test requirements
-This test have 3 parts to it, for each part you need to implement the solution 
+This test have 4 parts to it, for each part you need to implement the solution 
 in the relevant file.
 
 **The solution should be implemented inside the attached relevant file, don't add
